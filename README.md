@@ -19,3 +19,6 @@ docker run --restart always --detach --name webdav --publish 7000:8080 \
            --env WEBDAV_USERNAME=myuser --env WEBDAV_PASSWORD=mypassword \
            --env UID=$UID --volume $PWD:/media ionelmc/webdav
 ```
+
+
+![image](https://github.com/user-attachments/assets/1142a0d0-360c-4061-a014-d2f64708e5d4)
